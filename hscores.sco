@@ -1,0 +1,20 @@
+30000
+Dr. Mailler
+27000
+Blinky
+25000
+Pinky
+22500
+Inky
+20000
+Clyde
+17000
+Osdo
+15000
+Kurt
+10000
+Hank
+5000
+Frank
+7
+Lennie

@@ -1,0 +1,38 @@
+
+// imsInfo.txt images
+
+// menu elements
+o title.png
+o keys.png
+o staff.png
+o staffhowto.png
+o boombox.png
+o back.png
+o resetScore.png
+o harmonica.png
+
+// player image and paint
+s blues.png 3
+o note.png
+o maplesheet.png
+
+o wormhead.png
+o wormbody.png
+o wormtail.png
+
+// scenery images
+o sky.png
+o clearsky.png
+o mountains.png
+o desertfar.png
+o radiotower.png
+o trees.png
+o desertnear.png
+o signs.png
+o road.png
+
+
+// missile image and explosion
+o missile.png
+s exploStay.png 6
+s exploMove.png 6
